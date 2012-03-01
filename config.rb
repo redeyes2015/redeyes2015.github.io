@@ -2,10 +2,10 @@
 project_type = :stand_alone
 
 # Publishing paths
-http_path = "/"
-http_images_path = "/images"
-http_fonts_path = "/fonts"
-css_dir = "public/stylesheets"
+http_path = "/redeyes2015/"
+http_images_path = "/redeyes2015/images"
+http_fonts_path = "/redeyes2015/fonts"
+css_dir = "public/redeyes2015/stylesheets"
 
 # Local development paths
 sass_dir = "sass"
