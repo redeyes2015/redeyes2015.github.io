@@ -1,0 +1,38 @@
+--- layout: post title: "20101013 論文進度報告" date: 2010-10-13 comments: false categories: - ProgressReport - 論文 --- 
+
+最近狀況:
+
+  * 做了 Ubuntu 實驗 * 4 + Windows 7 實驗 * 1
+    * 實驗方法跟之前相同, 除了 ESSID 和 subnetwork (AP 的"內部網路") 有配合老師那篇論文的設定改變
+    * 不管是 Ubuntu 或是 Windows 7 遇到 aE_rS, 都會自動換手到還活著的 AP... 然後 indefinitely 等待之前 dhcp 要到的設定變成可用 (兩邊我都等待了約十分鐘以上) (但是實際上 layer 2 雖然連著, arp 卻一直要不到之前 gateway 的 mac...)
+    * 就表現上, 可以推斷 ubuntu 的 NetworkManager(NM) 和 Windows 的 Zero-Configuration(0C) 都認定同樣的 ESSID 一定在同一個 subnetwork 底下
+    * NM 方面, 雖然 wpa-supplicant 有發出 state change 的 event, 但是完全沒有作處理的跡象
+    * 0C 方面.. 沒有額外的訊息可以觀察, 不過推測跟 NM 的狀況相近
+    * 也就是說 **aE_rS 這種狀況似乎很需要處理.**
+    * 其他的還沒分析結果...
+  * 四個Linux的實驗封包好像沒錄到... 可能要重作...
+  * 找了一下Paper..
+    * 嚴格地說, 沒找到什麼有用的Paper... 大部分都是減少 layer-2 handover 的時間, either probing/association/auth ...
+    * "FAST-HANDOFF SUPPORT IN IEEE 802.11 WIRELESS NETWORKS" 這篇的整理似乎不錯, 但都是 layer-2 的
+    * "Link-layer Initiated Handoff Protocol"似乎需要看一下
+想法:
+
+  1. 老師曾經說過的: Topology-aided + sth?
+  2. 我想的 1: 在發現 layer 2 的設定改變時, 先去試一下之前的 DHCP server 或是 Gateway 是否還能連上, 藉以確認是否還在同一個 subnetwork 下.
+    * 改善 intra-subnetwork 時額外的 DHCP 行為所花得時間
+    * 以及aE_rS設定, 無法重新取得 layer-3 設定的問題
+  3. 我想的 2: 可能要更改 NM 遇到 inter-ESSID raoming 的行為, 重新連舊的 ESSID 等 60 秒實在太長了.
+    * 改善 inter-ESSID 的切換時間
+前一步:
+
+  * 實驗做了.. 只是可能要重作.......
+  * 多重介面還沒試 囧
+  * 投影片還沒作...
+下一步:
+
+  * 該做投影片了
+    * 問題陳述: (inter-, intra-) x (ESSID, subnetwork) 各情況下可能遇到的問題
+    * 可能的改善方法
+  * 多重介面...?
+  * 下次找 paper 關鍵字(?): layer-3 dhcp 802.11 
+

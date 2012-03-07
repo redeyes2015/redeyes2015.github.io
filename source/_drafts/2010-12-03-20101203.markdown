@@ -1,0 +1,22 @@
+--- layout: post title: "20101203 論文進度報告" date: 2010-12-03 comments: false categories: - ProgressReport - 論文 --- 
+
+昨天去找老師了, 對話簡單說就是..
+
+  
+「老師我想透過arp probing 解決之前的問題」
+
+「OK, 看起來可行, 去作.」
+
+  
+恩 就是這樣.
+
+所以.. 開始改NetworkManager吧! (預定)
+
+  
+目前進度:
+
+myarping.c : 可以發/收 arp 封包了, 有處理逾時問題, 沒有處理別人寄來的封包.
+
+  
+下一步.. 把 myarping 改成用 Glib 的 MainLoop 來寫.
+

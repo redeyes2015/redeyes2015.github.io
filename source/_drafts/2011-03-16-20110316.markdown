@@ -1,0 +1,17 @@
+--- layout: post title: "20110316 筆記" date: 2011-03-16 comments: false --- 
+
+RFC 2461 Neighbor Discovery
+
+-> 7.2 Neighbor Unreachability Detection:  
+
+> If no response is
+
+>        received after waiting RetransTimer milliseconds after sending the
+
+>        MAX_UNICAST_SOLICIT solicitations, retransmissions cease and the
+
+>        entry SHOULD be deleted.
+
+  * &nbsp_place_holder;RetransTimer = 1000ms
+  * MAX_UNICAST_SOLICIT = 3 times
+

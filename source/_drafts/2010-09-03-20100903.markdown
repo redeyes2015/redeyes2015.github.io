@@ -1,0 +1,32 @@
+--- layout: post title: "20100903 論文進度報告(?)" date: 2010-09-03 comments: false categories: - ProgressReport - 論文 --- 
+
+老闆的話:
+
+> CC: 先作一到兩頁的投影片，條列式的把以下列出來:
+
+>
+
+>   1. 題目
+
+>   2. 環境
+
+>   3. 目標
+
+> 之後再模仿論文的格式增加投影片的內容 -> 論文投影片就這樣作好了!
+
+  
+最近狀況:
+
+  * rtnetlink/netlink 文件超難K 
+  * Network Mangaer 有用到一套 lib 來管理rtnetlink: [libnl](http://www.infradead.org/%7Etgr/libnl/doc/core_doc.html)
+  * ip mon all 很好用... 寫了一個 [ipmonall_fileter](http://gist.github.com/563550) 加上 timetag. 打算用來偵測 kernel 對網路事件的時間順序.  
+
+  
+下一步:
+
+  * 作投影片
+  * 作實驗看是否真會延遲那麼久
+    * 買 AP?
+  * 看一下 Network Manager 的架構?
+    * 主要是偵測網路介面事件以及選 AP 的部份.
+

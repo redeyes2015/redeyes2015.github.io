@@ -1,0 +1,29 @@
+--- layout: post title: "20100917 論文進度報告" date: 2010-09-17 comments: false categories: - ProgressReport - 論文 --- 
+
+最近狀況:
+
+  * 在K NetworkManager的Code
+    * 進度緩慢..
+    * NM 完全是用 GLib + GObject 寫成的...
+    * 還搞不清楚什麼時候會發出signal在被收到.(還是應該先不管??)
+    * nm-policy.c, nm-device-wifi.c, 目前看來很有關連..
+  * 同時在看[GObject](http://library.gnome.org/devel/gobject/unstable/)的文件..
+    * 這真是神妙的Lib.. 用函式庫的方式為C提供了OO的實作介面
+    * NM內部將不同元件作成不同Object來運作
+  
+前一步:
+
+  * 兩頁投影片做了但是還沒給老師看過..
+  * 實驗還沒作.. AP請承運買了不過還沒收到回音.
+  * 看 NM 架構.. 進行中, 如上述, 估計進度不到一半
+  
+下一步:
+
+  * **實驗**要盡快進行
+    1. 停住 NM daemon: service network-manager stop
+    2. NM除錯模式啟動: sudo NetworkManager --no-daemon
+    3. applet_應該_不用管吧..  
+
+  * 可能要先簡略看過GObject的[Tutorial](http://library.gnome.org/devel/gobject/unstable/howto-gobject.html)?
+  * 投影片待補完...
+

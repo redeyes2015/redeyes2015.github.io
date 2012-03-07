@@ -1,0 +1,39 @@
+--- layout: post title: "20101224 論文進度報告" date: 2010-12-24 comments: false categories: - ProgressReport - 論文 --- 
+
+又找老師了(終於)
+
+  
+老師的話:
+
+  * 口試這個學期恐怕是來不及，可以看看過年後如何.
+  * 投影片要再作的有架構一點
+    * Motivation先以白話的方式點出環境, 以及遇到的問題, 再簡述解決的方法(一句話左右)
+    * Related work
+    * "為什麼要選擇這樣的方法" -> "方法簡述" -> 細節
+    * 盡量用圖文並茂的方式講, 並且讓聽眾容易理解
+    * 圖: ex: NM 的架構, 在 Linux 中的環境.
+      * idea1: User <-> NM <-> Driver
+      * idea2: Device, Connection, ActiveConnection(?)
+      * idea3: 運作方式
+  * 理想上投影片和論文的架構可以一起作出來, 而且圖可以共用
+    * 投影片會比較"Hierarchical"一點
+  * 測試環境: 最好加上 VoIP 的程式.
+  * 比較1: detect by Polling vs. triggered by state-changing event
+  * 比較2: arp probing vs. topology-aware(emulate)
+  * 802.11r 可以在 beacon 之類的 message 中夾帶subnetwork information
+    * 帶到即可, 用以證明 topology-aware 的方法是可行的
+    * ... 不過實驗中不是用這個方法.
+  * Multi-interface 先不管了
+  * inter-ESS Intra-Subnet 也先不管 (有空再看看)
+目前作完的:
+
+  * Arping + polling 的貌似作完了
+  * Topology-aided + polling 的還沒測試.
+下一步:
+
+  * 弄好測試環境 (VoIP, router, ...)
+    * 順便畫圖.
+  * 想要怎麼寫 Event-driven 版.
+  * 作實驗.
+  * 作投影片.
+

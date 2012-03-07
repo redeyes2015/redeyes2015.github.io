@@ -1,0 +1,25 @@
+--- layout: post title: "20101001 論文進度報告" date: 2010-10-01 comments: false categories: - ProgressReport - 論文 --- 
+
+最近狀況:
+
+  * 討論*3
+  * 結論: 繼續作 NM 的改善不變.
+    * 方向1: 之前發現的 roaming 表現不佳, 方法: topology-aware + probing (再考慮)
+    * 方向2: 測試一下 NM 在 Multi-IF 下的表現, 再找問題
+  * 老師: 兩個禮拜後去找他, 不要_隔太久_.
+  * BTW, 元春作 Android 上的東西, 偏應用層. "高榮裕"學長作Middle-ware的改進, 往Multi-IF的方向
+  
+前一步:
+
+  * 老師找了, 結論如前述
+  
+下一步:
+
+  * 測試 (inter- , intra-) x (ESSID, subnetwork) 四個狀況中, NM 的表現, 最好把封包也錄下來.
+  * 多重界面 NM 會怎麼作..? ex: eth + wlan0 + pcmica
+  * 考慮作一點投影片..?
+  
+---  
+  
+有空複習一下"會議紀錄" ...
+
