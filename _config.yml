@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://redeyes2015.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Yet another blog
+subtitle: stop murmuring!
+author: rein
 simple_search: http://google.com/search
-description:
+description: powered by Octopress
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: redeyes2015
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: redeyes2015
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -85,7 +85,7 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: redeyes2015
 delicious_count: 3
 
 # Disqus Comments
