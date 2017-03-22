@@ -1,8 +1,8 @@
 學經歷
 ======
 
-- 台大資訊工程系 (B92)
-- 交大網路工程所
+- 台大資訊工程系 (2003 ~ 2007)
+- 交大網路工程所 (2007 ~ 2011)
 - 晶睿通訊 (2011 ~ now)
 
 我作過什麼
@@ -11,12 +11,12 @@
 前端開發
 --------
 
-- 維護 Sigle-Page Application 式的 NVR 網頁界面
+- 維護 Single-Page Application 式的 Network Video Recorder 之網頁界面
     * 主要框架: JavaScriptMVC (之後改名 CanJS)
-    * RequireJS / LESS (CSS)
+    * jQuery / RequireJS / LESS (CSS)
     * 處理 IE8 相容性問題的經驗
     * 整合 ActiveX Plugin 界面
-- 透過 RaphaelJS 操作 SVG 的經驗
+    * 透過 RaphaelJS 操作 SVG 的經驗
 - 用 Selenium 作測試工具的prototype
 - 維護 build tool: gulpfile.js
     - 用 node.js 寫多國語言工具
@@ -26,8 +26,7 @@ Linux 相關
 ----------
 
 - 跟熊… GNU Make 搏鬥的經驗
-    * 主要是提高流程的平行度
-    * bash script, 其他命令列工具程式
+    * 主要是提高流程的平行度，以加速韌體的建置
 - 架設 Jenkins 作 CI
     * 多 slave 架構
     * 自動化建置韌體 by each Gerrit change
@@ -37,10 +36,10 @@ Linux 相關
 
 - 熟悉 Git 命令列環境
 - 透過 Gerrit/Gitlab 作 code review
-- 曾經手 python (2.6) daemon
+- 曾經手以 python (2.6) 寫的 daemon
 
 語言熟悉度
-==================
+==========
 
 1. JavaScript 80%
     - 熟悉網頁平台, NodeJS 環境有經驗
@@ -52,16 +51,13 @@ Linux 相關
 其他長項
 ========
 
-* 英文閱讀能力不錯
+* 不錯的英文閱讀能力
     * TOEIC 950
     * GEPT 中高級聽讀 120/120
-* 對 linux 的命令列環境熟悉
+* 熟悉 Linux 的命令列環境
 
 我喜歡的工具環境
 ================
 
 - vim
 - Firefox
-- CLI in posix env.
-    * 跟 macOS 不熟，但有用過
-
