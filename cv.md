@@ -36,7 +36,7 @@ Linux 相關
 - 透過 Gerrit/Gitlab 作 code review
 - 曾經手 python (2.6) daemon
 
-自以為的語言熟悉度
+語言熟悉度
 ==================
 
 1. JavaScript 80%
@@ -50,6 +50,8 @@ Linux 相關
 ========
 
 * 英文閱讀能力不錯
+    * TOEIC 950
+    * GEPT 中高級聽讀 120/120
 * 對 linux 的命令列環境熟悉
 
 我喜歡的工具環境
