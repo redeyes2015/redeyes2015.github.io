@@ -41,10 +41,10 @@ Linux 相關
 語言熟悉度
 ==========
 
-1. JavaScript 80%
+1. 熟悉 JavaScript
     - 熟悉網頁平台, NodeJS 環境有經驗
     - ES5 之後的 feature 有在追
-2. Python 50% (2.7)
+2. 略懂 Python 2
 3. 大學時期的記憶: C / Java
 4. 淺嘗則止: Go / Rust / Perl (5)
 
