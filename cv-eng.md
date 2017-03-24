@@ -1,3 +1,10 @@
+Basic Info
+==========
+
+I am Yu-Jen Chang, or you can just call me Ryan.
+
+Mail: redeyes2015@gmail.com
+
 Experience
 ==========
 
