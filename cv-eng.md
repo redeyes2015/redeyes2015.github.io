@@ -12,16 +12,17 @@ Supervisor
 ----------
 Jan 2017 - Present (1 year)
 
-- Lead a team of 3 front-end engineers
-- Mentor engineers to join in web development
-- Hold a workshop to let members try new web frameworks
+- Guide a team of 3 front-end engineers
+  * Organize a workshop to let members try new web frameworks
+  * Help mentor engineers of other teams on web development
 
 - Maintain the web interface of VIVOCloud portal, which let users to access
-    network video recorder (NVR) directly from the browser.
+    network video recorder (NVR) directly from the browser
   * Utilize GitLab CI to automatically check builds and run linter on every
-    merge request
+      merge request to save time on checking bad coding styles
   * Migrate the building process to use Webpack and reduce the building time for 40%
-  * Guide the team to migrating to VueJS gradually
+  * Guide the team to migrating to VueJS gradually in order to bring in cleaner
+      code architecture and developing environment for modern ECMAScript
 
 Sr. Software Engineer
 ---------------------
