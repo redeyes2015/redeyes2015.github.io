@@ -20,8 +20,7 @@ Jan 2017 - Present (1 year)
     network video recorder (NVR) directly from the browser.
   * Utilize GitLab CI to automatically check builds and run linter on every
     merge request
-  * Migrate the building process to use Webpack and reduce the building time for
-/* TODO ?% */
+  * Migrate the building process to use Webpack and reduce the building time for 40%
   * Guide the team to migrating to VueJS gradually
 
 Sr. Software Engineer
@@ -43,7 +42,7 @@ Sep 2011 - Mar 2014 (2 years 7 months)
 - Join the team to develop the first developed-in-house network video recorder
     (NVR) of VIVOTEK
 - Maintain some daemons on embedded system
-- Shorten the firmware building time (/* TODO  50%? */) by revising Makefiles
+- Reduced the firmware building time 30% by revising Makefiles
     and raising the level of concurrency
 - Maintain single-page-application style web interface of NVR
   *  Mentor one engineer to join in web development
