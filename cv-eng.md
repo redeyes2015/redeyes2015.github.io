@@ -64,7 +64,7 @@ Skill
 - POSIX environment and Linux server management
 - Decent English reading ability
   * TOEIC score: 950
-  * GEPT High-Intermediate Listening/Reading: 120/120
+  * GEPT High-Intermediate Level Certificated
 
 Reference
 =========
