@@ -16,7 +16,7 @@ Jan 2017 - Present (1 year)
   * Organize a workshop to let members try new web frameworks
   * Help mentor engineers of other teams on web development
 
-- Maintain the web interface of VIVOCloud portal, which let users to access
+- Maintain the web portal of VIVOCloud, which lets users to access
     network video recorder (NVR) directly from the browser
   * Utilize GitLab CI to automatically check builds and run linter on every
       merge request to save time on checking bad coding styles
