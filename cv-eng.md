@@ -12,17 +12,18 @@ Supervisor
 ----------
 Jan 2017 - Present (1 year)
 
-- Guide a team of 3 front-end engineers
-  * Organize a workshop to let members try new web frameworks
-  * Help mentor engineers of other teams on web development
-
-- Maintain the web portal of VIVOCloud, which lets users to access
+- Guide a team of 4 front-end engineers
+- Organize biannual in-company conferences to stimulate knowledge
+    sharing among web developing colleague company-wide
+- Refurbish a legacy lambda function (written in JavaScript) to
+    introduce modern tool sets and unit tests
+- Maintain the web portal of VIVOCloud, which lets users access
     network video recorder (NVR) directly from the browser
-  * Utilize GitLab CI to automatically check builds and run linter on every
-      merge request to save time on checking bad coding styles
+  * Setup CI infrastructure
   * Migrate the building process to use Webpack and reduce the building time for 40%
   * Guide the team to migrating to VueJS gradually in order to bring in cleaner
-      code architecture and developing environment for modern ECMAScript
+      code architecture and developing environment of modern ECMAScript
+
 
 Sr. Software Engineer
 ---------------------
