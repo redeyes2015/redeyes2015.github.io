@@ -1,469 +1,497 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.bookwalker.com.tw/more/fiction/1/3</id>
+    <id>https://www.bookwalker.com.tw/category/3/28?order=sell_desc</id>
     <title>BOOKWALKER 輕小說</title>
-    <updated>2021-05-04T10:58:57.658Z</updated>
+    <updated>2021-05-06T03:44:55.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Feed Generator</name>
     </author>
-    <link rel="alternate" href="https://www.bookwalker.com.tw/more/fiction/1/3"/>
+    <link rel="alternate" href="https://www.bookwalker.com.tw/category/3/28?order=sell_desc"/>
     <entry>
-        <title type="html"><![CDATA[歡迎來到實力至上主義的教室 2年級篇 (1)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107067</id>
-        <link href="https://www.bookwalker.com.tw/product/107067"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107067" target="_blank" alt="歡迎來到實力至上主義的教室 2年級篇 (1)" title="歡迎來到實力至上主義的教室 2年級篇 (1)" onclick="Gtag.gtagData([{&quot;id&quot;:107067,&quot;name&quot;:&quot;\u6b61\u8fce\u4f86\u5230\u5be6\u529b\u81f3\u4e0a\u4e3b\u7fa9\u7684\u6559\u5ba4 2\u5e74\u7d1a\u7bc7 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[GOBLIN SLAYER! 哥布林殺手(11)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113096</id>
+        <link href="https://www.bookwalker.com.tw/product/113096"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113096" target="_blank" alt="GOBLIN SLAYER! 哥布林殺手(11)" title="GOBLIN SLAYER! 哥布林殺手(11)" onclick="Gtag.gtagData([{&quot;id&quot;:113096,&quot;name&quot;:&quot;GOBLIN SLAYER! \u54e5\u5e03\u6797\u6bba\u624b(11)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u5c16\u7aef\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:144,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107067/107067_4.jpg" alt="歡迎來到實力至上主義的教室 2年級篇 (1)" data-gtag="[{&quot;id&quot;:107067,&quot;name&quot;:&quot;\u6b61\u8fce\u4f86\u5230\u5be6\u529b\u81f3\u4e0a\u4e3b\u7fa9\u7684\u6559\u5ba4 2\u5e74\u7d1a\u7bc7 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="歡迎來到實力至上主義的教室 2年級篇 (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107067/107067_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113096/113096_4.jpg" alt="GOBLIN SLAYER! 哥布林殺手(11)" data-gtag="[{&quot;id&quot;:113096,&quot;name&quot;:&quot;GOBLIN SLAYER! \u54e5\u5e03\u6797\u6bba\u624b(11)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u5c16\u7aef\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:144,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="GOBLIN SLAYER! 哥布林殺手(11)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113096/113096_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107067/107067_4.jpg" title="EP同步"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/113096/113096_4.jpg" title="EP同步"> </div>
             
-            <h4 class="bookname">歡迎來到實力至上主義的教室 2年級篇 (1)</h4>
+            <h4 class="bookname">GOBLIN SLAYER! 哥布林殺手(11)</h4>
             <h5 class="booknamesub">
-                                    衣笠彰梧 / トモセ シュンサク
+                                    蝸牛くも / 神奈月昇
                             </h5>
-            <h5 class="bprice">165元</h5>
+            <h5 class="bprice">144元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[無職轉生～到了異世界就拿出真本事～ (21)]]></title>
-        <id>https://www.bookwalker.com.tw/product/111435</id>
-        <link href="https://www.bookwalker.com.tw/product/111435"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/111435" target="_blank" alt="無職轉生～到了異世界就拿出真本事～ (21)" title="無職轉生～到了異世界就拿出真本事～ (21)" onclick="Gtag.gtagData([{&quot;id&quot;:111435,&quot;name&quot;:&quot;\u7121\u8077\u8f49\u751f\uff5e\u5230\u4e86\u7570\u4e16\u754c\u5c31\u62ff\u51fa\u771f\u672c\u4e8b\uff5e (21)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:185,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[問題兒童的最終考驗 (8)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112785</id>
+        <link href="https://www.bookwalker.com.tw/product/112785"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112785" target="_blank" alt="問題兒童的最終考驗 (8)" title="問題兒童的最終考驗 (8)" onclick="Gtag.gtagData([{&quot;id&quot;:112785,&quot;name&quot;:&quot;\u554f\u984c\u5152\u7ae5\u7684\u6700\u7d42\u8003\u9a57 (8)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/111435/111435_4.jpg" alt="無職轉生～到了異世界就拿出真本事～ (21)" data-gtag="[{&quot;id&quot;:111435,&quot;name&quot;:&quot;\u7121\u8077\u8f49\u751f\uff5e\u5230\u4e86\u7570\u4e16\u754c\u5c31\u62ff\u51fa\u771f\u672c\u4e8b\uff5e (21)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:185,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="無職轉生～到了異世界就拿出真本事～ (21)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/111435/111435_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112785/112785_4.jpg" alt="問題兒童的最終考驗 (8)" data-gtag="[{&quot;id&quot;:112785,&quot;name&quot;:&quot;\u554f\u984c\u5152\u7ae5\u7684\u6700\u7d42\u8003\u9a57 (8)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="問題兒童的最終考驗 (8)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112785/112785_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/111435/111435_4.jpg" title="先行發售"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112785/112785_4.jpg" title="先行發售"> </div>
             
-            <h4 class="bookname">無職轉生～到了異世界就拿出真本事～ (21)</h4>
+            <h4 class="bookname">問題兒童的最終考驗 (8)</h4>
             <h5 class="booknamesub">
-                                    理不尽な孫の手 / シロタカ
+                                    竜ノ湖 太郎 / ももこ
                             </h5>
-            <h5 class="bprice">185元</h5>
+            <h5 class="bprice">140元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】]]></title>
-        <id>https://www.bookwalker.com.tw/product/111604</id>
-        <link href="https://www.bookwalker.com.tw/product/111604"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/111604" target="_blank" alt="小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】" title="小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】" onclick="Gtag.gtagData([{&quot;id&quot;:111604,&quot;name&quot;:&quot;\u5c0f\u66f8\u75f4\u7684\u4e0b\u524b\u4e0a\uff1a\u70ba\u4e86\u6210\u70ba\u5716\u66f8\u7ba1\u7406\u54e1\u4e0d\u64c7\u624b\u6bb5\uff01\u3010\u7b2c\u56db\u90e8\u3011\u8cb4\u65cf\u9662\u7684\u81ea\u7a31\u5716\u66f8\u59d4\u54e1VII\u3010\u7121\u7279\u5178\u3011&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u7687\u51a0&quot;,&quot;variant&quot;:29,&quot;price&quot;:210,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112780</id>
+        <link href="https://www.bookwalker.com.tw/product/112780"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112780" target="_blank" alt="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)" title="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)" onclick="Gtag.gtagData([{&quot;id&quot;:112780,&quot;name&quot;:&quot;\u56e0\u70ba\u4e0d\u662f\u771f\u6b63\u7684\u5925\u4f34\u800c\u88ab\u9010\u51fa\u52c7\u8005\u968a\u4f0d\uff0c\u6d41\u843d\u5230\u908a\u5883\u5c55\u958b\u6162\u6d3b\u4eba\u751f (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/111604/111604_4.jpg" alt="小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】" data-gtag="[{&quot;id&quot;:111604,&quot;name&quot;:&quot;\u5c0f\u66f8\u75f4\u7684\u4e0b\u524b\u4e0a\uff1a\u70ba\u4e86\u6210\u70ba\u5716\u66f8\u7ba1\u7406\u54e1\u4e0d\u64c7\u624b\u6bb5\uff01\u3010\u7b2c\u56db\u90e8\u3011\u8cb4\u65cf\u9662\u7684\u81ea\u7a31\u5716\u66f8\u59d4\u54e1VII\u3010\u7121\u7279\u5178\u3011&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u7687\u51a0&quot;,&quot;variant&quot;:29,&quot;price&quot;:210,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/111604/111604_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112780/112780_4.jpg" alt="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)" data-gtag="[{&quot;id&quot;:112780,&quot;name&quot;:&quot;\u56e0\u70ba\u4e0d\u662f\u771f\u6b63\u7684\u5925\u4f34\u800c\u88ab\u9010\u51fa\u52c7\u8005\u968a\u4f0d\uff0c\u6d41\u843d\u5230\u908a\u5883\u5c55\u958b\u6162\u6d3b\u4eba\u751f (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112780/112780_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/111604/111604_4.jpg" title="EP同步"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112780/112780_4.jpg" title="先行發售"> </div>
             
-            <h4 class="bookname">小書痴的下剋上：為了成為圖書管理員不擇手段！【第四部】貴族院的自稱圖書委員VII【無特典】</h4>
+            <h4 class="bookname">因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (5)</h4>
             <h5 class="booknamesub">
-                                    香月美夜 / 椎名優 / 許金玉
-                            </h5>
-            <h5 class="bprice">210元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[青梅竹馬絕對不會輸的戀愛喜劇 (1)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107072</id>
-        <link href="https://www.bookwalker.com.tw/product/107072"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107072" target="_blank" alt="青梅竹馬絕對不會輸的戀愛喜劇 (1)" title="青梅竹馬絕對不會輸的戀愛喜劇 (1)" onclick="Gtag.gtagData([{&quot;id&quot;:107072,&quot;name&quot;:&quot;\u9752\u6885\u7af9\u99ac\u7d55\u5c0d\u4e0d\u6703\u8f38\u7684\u6200\u611b\u559c\u5287 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:111,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107072/107072_4.jpg" alt="青梅竹馬絕對不會輸的戀愛喜劇 (1)" data-gtag="[{&quot;id&quot;:107072,&quot;name&quot;:&quot;\u9752\u6885\u7af9\u99ac\u7d55\u5c0d\u4e0d\u6703\u8f38\u7684\u6200\u611b\u559c\u5287 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:111,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="青梅竹馬絕對不會輸的戀愛喜劇 (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107072/107072_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107072/107072_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">青梅竹馬絕對不會輸的戀愛喜劇 (1)</h4>
-            <h5 class="booknamesub">
-                                    二丸 修一 / しぐれうい
-                            </h5>
-            <h5 class="bprice">111元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[為美好的世界獻上祝福！ (17)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107069</id>
-        <link href="https://www.bookwalker.com.tw/product/107069"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107069" target="_blank" alt="為美好的世界獻上祝福！ (17)" title="為美好的世界獻上祝福！ (17)" onclick="Gtag.gtagData([{&quot;id&quot;:107069,&quot;name&quot;:&quot;\u70ba\u7f8e\u597d\u7684\u4e16\u754c\u737b\u4e0a\u795d\u798f\uff01 (17)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107069/107069_4.jpg" alt="為美好的世界獻上祝福！ (17)" data-gtag="[{&quot;id&quot;:107069,&quot;name&quot;:&quot;\u70ba\u7f8e\u597d\u7684\u4e16\u754c\u737b\u4e0a\u795d\u798f\uff01 (17)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="為美好的世界獻上祝福！ (17)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107069/107069_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107069/107069_4.jpg" title="已完結"> <img src="https://image.bookwalker.com.tw/upload/product/107069/107069_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">為美好的世界獻上祝福！ (17)</h4>
-            <h5 class="booknamesub">
-                                    暁 なつめ / 三嶋 くろね
+                                    ざっぽん / やすも
                             </h5>
             <h5 class="bprice">150元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[關於我在無意間被隔壁的天使變成廢柴這件事 (1)]]></title>
-        <id>https://www.bookwalker.com.tw/product/110461</id>
-        <link href="https://www.bookwalker.com.tw/product/110461"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110461" target="_blank" alt="關於我在無意間被隔壁的天使變成廢柴這件事 (1)" title="關於我在無意間被隔壁的天使變成廢柴這件事 (1)" onclick="Gtag.gtagData([{&quot;id&quot;:110461,&quot;name&quot;:&quot;\u95dc\u65bc\u6211\u5728\u7121\u610f\u9593\u88ab\u9694\u58c1\u7684\u5929\u4f7f\u8b8a\u6210\u5ee2\u67f4\u9019\u4ef6\u4e8b (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[終焉之栞(4)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113058</id>
+        <link href="https://www.bookwalker.com.tw/product/113058"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113058" target="_blank" alt="終焉之栞(4)" title="終焉之栞(4)" onclick="Gtag.gtagData([{&quot;id&quot;:113058,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110461/110461_4.jpg" alt="關於我在無意間被隔壁的天使變成廢柴這件事 (1)" data-gtag="[{&quot;id&quot;:110461,&quot;name&quot;:&quot;\u95dc\u65bc\u6211\u5728\u7121\u610f\u9593\u88ab\u9694\u58c1\u7684\u5929\u4f7f\u8b8a\u6210\u5ee2\u67f4\u9019\u4ef6\u4e8b (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="關於我在無意間被隔壁的天使變成廢柴這件事 (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110461/110461_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113058/113058_4.jpg" alt="終焉之栞(4)" data-gtag="[{&quot;id&quot;:113058,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="終焉之栞(4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113058/113058_4.jpg">
             </div>
 
                             <div class="lablename">
 					
                 </div>
             
-            <h4 class="bookname">關於我在無意間被隔壁的天使變成廢柴這件事 (1)</h4>
+            <h4 class="bookname">終焉之栞(4)</h4>
             <h5 class="booknamesub">
-                                    佐伯さん / はねこと / 郭蕙寧
+                                    スズム / さいね/こみね / 蕪村
                             </h5>
             <h5 class="bprice">140元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[刮掉鬍子的我與撿到的女高中生 (4)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107062</id>
-        <link href="https://www.bookwalker.com.tw/product/107062"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107062" target="_blank" alt="刮掉鬍子的我與撿到的女高中生 (4)" title="刮掉鬍子的我與撿到的女高中生 (4)" onclick="Gtag.gtagData([{&quot;id&quot;:107062,&quot;name&quot;:&quot;\u522e\u6389\u9b0d\u5b50\u7684\u6211\u8207\u64bf\u5230\u7684\u5973\u9ad8\u4e2d\u751f (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:134,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[終焉之栞(3)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113057</id>
+        <link href="https://www.bookwalker.com.tw/product/113057"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113057" target="_blank" alt="終焉之栞(3)" title="終焉之栞(3)" onclick="Gtag.gtagData([{&quot;id&quot;:113057,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(3)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:145,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107062/107062_4.jpg" alt="刮掉鬍子的我與撿到的女高中生 (4)" data-gtag="[{&quot;id&quot;:107062,&quot;name&quot;:&quot;\u522e\u6389\u9b0d\u5b50\u7684\u6211\u8207\u64bf\u5230\u7684\u5973\u9ad8\u4e2d\u751f (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:134,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="刮掉鬍子的我與撿到的女高中生 (4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107062/107062_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113057/113057_4.jpg" alt="終焉之栞(3)" data-gtag="[{&quot;id&quot;:113057,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(3)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:145,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="終焉之栞(3)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113057/113057_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107062/107062_4.jpg" title="EP同步"> </div>
+                            <div class="lablename">
+					
+                </div>
             
-            <h4 class="bookname">刮掉鬍子的我與撿到的女高中生 (4)</h4>
+            <h4 class="bookname">終焉之栞(3)</h4>
             <h5 class="booknamesub">
-                                    しめさば / 足立 いまる / ぶーた
+                                    スズム / さいね/こみね / 蕪村
                             </h5>
-            <h5 class="bprice">134元</h5>
+            <h5 class="bprice">145元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)]]></title>
-        <id>https://www.bookwalker.com.tw/product/110557</id>
-        <link href="https://www.bookwalker.com.tw/product/110557"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110557" target="_blank" alt="回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)" title="回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)" onclick="Gtag.gtagData([{&quot;id&quot;:110557,&quot;name&quot;:&quot;\u56de\u5fa9\u8853\u58eb\u7684\u91cd\u555f\u4eba\u751f\uff5e\u5373\u6b7b\u9b54\u6cd5\u8207\u8907\u88fd\u6280\u80fd\u7684\u6975\u81f4\u56de\u5fa9\u8853\uff5e (7)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[終焉之栞(2)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113056</id>
+        <link href="https://www.bookwalker.com.tw/product/113056"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113056" target="_blank" alt="終焉之栞(2)" title="終焉之栞(2)" onclick="Gtag.gtagData([{&quot;id&quot;:113056,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="1" data-src="https://image.bookwalker.com.tw/upload/product/110557/110557_4.jpg" alt="回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)" data-gtag="[{&quot;id&quot;:110557,&quot;name&quot;:&quot;\u56de\u5fa9\u8853\u58eb\u7684\u91cd\u555f\u4eba\u751f\uff5e\u5373\u6b7b\u9b54\u6cd5\u8207\u8907\u88fd\u6280\u80fd\u7684\u6975\u81f4\u56de\u5fa9\u8853\uff5e (7)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110557/110557_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113056/113056_4.jpg" alt="終焉之栞(2)" data-gtag="[{&quot;id&quot;:113056,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="終焉之栞(2)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113056/113056_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110557/110557_4.jpg" title="EP同步"> </div>
+                            <div class="lablename">
+					
+                </div>
             
-            <h4 class="bookname">回復術士的重啟人生～即死魔法與複製技能的極致回復術～ (7)</h4>
+            <h4 class="bookname">終焉之栞(2)</h4>
             <h5 class="booknamesub">
-                                    月夜 淚 / しおこんぶ
+                                    スズム / さいね/こみね / 蕪村
                             </h5>
             <h5 class="bprice">150元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107709</id>
-        <link href="https://www.bookwalker.com.tw/product/107709"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107709" target="_blank" alt="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)" title="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)" onclick="Gtag.gtagData([{&quot;id&quot;:107709,&quot;name&quot;:&quot;\u56e0\u70ba\u4e0d\u662f\u771f\u6b63\u7684\u5925\u4f34\u800c\u88ab\u9010\u51fa\u52c7\u8005\u968a\u4f0d\uff0c\u6d41\u843d\u5230\u908a\u5883\u5c55\u958b\u6162\u6d3b\u4eba\u751f (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[終焉之栞(1)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113055</id>
+        <link href="https://www.bookwalker.com.tw/product/113055"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113055" target="_blank" alt="終焉之栞(1)" title="終焉之栞(1)" onclick="Gtag.gtagData([{&quot;id&quot;:113055,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:155,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107709/107709_4.jpg" alt="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)" data-gtag="[{&quot;id&quot;:107709,&quot;name&quot;:&quot;\u56e0\u70ba\u4e0d\u662f\u771f\u6b63\u7684\u5925\u4f34\u800c\u88ab\u9010\u51fa\u52c7\u8005\u968a\u4f0d\uff0c\u6d41\u843d\u5230\u908a\u5883\u5c55\u958b\u6162\u6d3b\u4eba\u751f (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107709/107709_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113055/113055_4.jpg" alt="終焉之栞(1)" data-gtag="[{&quot;id&quot;:113055,&quot;name&quot;:&quot;\u7d42\u7109\u4e4b\u681e(1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:155,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="終焉之栞(1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113055/113055_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107709/107709_4.jpg" title="先行發售"> </div>
+                            <div class="lablename">
+					
+                </div>
             
-            <h4 class="bookname">因為不是真正的夥伴而被逐出勇者隊伍，流落到邊境展開慢活人生 (4)</h4>
+            <h4 class="bookname">終焉之栞(1)</h4>
             <h5 class="booknamesub">
-                                    ざっぽん / やすも
+                                    スズム / さいね/こみね / 蕪村
+                            </h5>
+            <h5 class="bprice">155元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進化果實～不知不覺踏上勝利的人生～(5)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113054</id>
+        <link href="https://www.bookwalker.com.tw/product/113054"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113054" target="_blank" alt="進化果實～不知不覺踏上勝利的人生～(5)" title="進化果實～不知不覺踏上勝利的人生～(5)" onclick="Gtag.gtagData([{&quot;id&quot;:113054,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113054/113054_4.jpg" alt="進化果實～不知不覺踏上勝利的人生～(5)" data-gtag="[{&quot;id&quot;:113054,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="進化果實～不知不覺踏上勝利的人生～(5)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113054/113054_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">進化果實～不知不覺踏上勝利的人生～(5)</h4>
+            <h5 class="booknamesub">
+                                    美紅 / U35 / 王昱婷
                             </h5>
             <h5 class="bprice">140元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轉生成蜘蛛又怎樣！ (13)]]></title>
-        <id>https://www.bookwalker.com.tw/product/111430</id>
-        <link href="https://www.bookwalker.com.tw/product/111430"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/111430" target="_blank" alt="轉生成蜘蛛又怎樣！ (13)" title="轉生成蜘蛛又怎樣！ (13)" onclick="Gtag.gtagData([{&quot;id&quot;:111430,&quot;name&quot;:&quot;\u8f49\u751f\u6210\u8718\u86db\u53c8\u600e\u6a23\uff01 (13)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[進化果實～不知不覺踏上勝利的人生～(4)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113053</id>
+        <link href="https://www.bookwalker.com.tw/product/113053"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113053" target="_blank" alt="進化果實～不知不覺踏上勝利的人生～(4)" title="進化果實～不知不覺踏上勝利的人生～(4)" onclick="Gtag.gtagData([{&quot;id&quot;:113053,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/111430/111430_4.jpg" alt="轉生成蜘蛛又怎樣！ (13)" data-gtag="[{&quot;id&quot;:111430,&quot;name&quot;:&quot;\u8f49\u751f\u6210\u8718\u86db\u53c8\u600e\u6a23\uff01 (13)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="轉生成蜘蛛又怎樣！ (13)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/111430/111430_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113053/113053_4.jpg" alt="進化果實～不知不覺踏上勝利的人生～(4)" data-gtag="[{&quot;id&quot;:113053,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="進化果實～不知不覺踏上勝利的人生～(4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113053/113053_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/111430/111430_4.jpg" title="先行發售"> </div>
+                            <div class="lablename">
+					
+                </div>
             
-            <h4 class="bookname">轉生成蜘蛛又怎樣！ (13)</h4>
+            <h4 class="bookname">進化果實～不知不覺踏上勝利的人生～(4)</h4>
             <h5 class="booknamesub">
-                                    馬場翁 / 輝竜司
+                                    美紅 / U35 / 梅應琪
+                            </h5>
+            <h5 class="bprice">140元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[進化果實～不知不覺踏上勝利的人生～(3)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113052</id>
+        <link href="https://www.bookwalker.com.tw/product/113052"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113052" target="_blank" alt="進化果實～不知不覺踏上勝利的人生～(3)" title="進化果實～不知不覺踏上勝利的人生～(3)" onclick="Gtag.gtagData([{&quot;id&quot;:113052,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(3)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113052/113052_4.jpg" alt="進化果實～不知不覺踏上勝利的人生～(3)" data-gtag="[{&quot;id&quot;:113052,&quot;name&quot;:&quot;\u9032\u5316\u679c\u5be6\uff5e\u4e0d\u77e5\u4e0d\u89ba\u8e0f\u4e0a\u52dd\u5229\u7684\u4eba\u751f\uff5e(3)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="進化果實～不知不覺踏上勝利的人生～(3)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113052/113052_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">進化果實～不知不覺踏上勝利的人生～(3)</h4>
+            <h5 class="booknamesub">
+                                    美紅 / U35 / 梅應琪
+                            </h5>
+            <h5 class="bprice">150元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[聖劍學院的魔劍使(2)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113050</id>
+        <link href="https://www.bookwalker.com.tw/product/113050"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113050" target="_blank" alt="聖劍學院的魔劍使(2)" title="聖劍學院的魔劍使(2)" onclick="Gtag.gtagData([{&quot;id&quot;:113050,&quot;name&quot;:&quot;\u8056\u528d\u5b78\u9662\u7684\u9b54\u528d\u4f7f(2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:130,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113050/113050_4.jpg" alt="聖劍學院的魔劍使(2)" data-gtag="[{&quot;id&quot;:113050,&quot;name&quot;:&quot;\u8056\u528d\u5b78\u9662\u7684\u9b54\u528d\u4f7f(2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:130,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="聖劍學院的魔劍使(2)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113050/113050_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">聖劍學院的魔劍使(2)</h4>
+            <h5 class="booknamesub">
+                                    志瑞祐 / 遠坂あさぎ / 徐維星
+                            </h5>
+            <h5 class="bprice">130元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人造生命體與美麗新世界(4)]]></title>
+        <id>https://www.bookwalker.com.tw/product/113049</id>
+        <link href="https://www.bookwalker.com.tw/product/113049"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/113049" target="_blank" alt="人造生命體與美麗新世界(4)" title="人造生命體與美麗新世界(4)" onclick="Gtag.gtagData([{&quot;id&quot;:113049,&quot;name&quot;:&quot;\u4eba\u9020\u751f\u547d\u9ad4\u8207\u7f8e\u9e97\u65b0\u4e16\u754c(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/113049/113049_4.jpg" alt="人造生命體與美麗新世界(4)" data-gtag="[{&quot;id&quot;:113049,&quot;name&quot;:&quot;\u4eba\u9020\u751f\u547d\u9ad4\u8207\u7f8e\u9e97\u65b0\u4e16\u754c(4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u6771\u7acb\u51fa\u7248\u793e&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="人造生命體與美麗新世界(4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/113049/113049_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">人造生命體與美麗新世界(4)</h4>
+            <h5 class="booknamesub">
+                                    緋月 薙 / ふーみ / 蕪村
+                            </h5>
+            <h5 class="bprice">150元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史上最強大魔王轉生為村民A (5)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112427</id>
+        <link href="https://www.bookwalker.com.tw/product/112427"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112427" target="_blank" alt="史上最強大魔王轉生為村民A (5)" title="史上最強大魔王轉生為村民A (5)" onclick="Gtag.gtagData([{&quot;id&quot;:112427,&quot;name&quot;:&quot;\u53f2\u4e0a\u6700\u5f37\u5927\u9b54\u738b\u8f49\u751f\u70ba\u6751\u6c11A (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112427/112427_4.jpg" alt="史上最強大魔王轉生為村民A (5)" data-gtag="[{&quot;id&quot;:112427,&quot;name&quot;:&quot;\u53f2\u4e0a\u6700\u5f37\u5927\u9b54\u738b\u8f49\u751f\u70ba\u6751\u6c11A (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="史上最強大魔王轉生為村民A (5)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112427/112427_4.jpg">
+            </div>
+
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112427/112427_4.jpg" title="EP同步"> </div>
+            
+            <h4 class="bookname">史上最強大魔王轉生為村民A (5)</h4>
+            <h5 class="booknamesub">
+                                    下等 妙人 / 水野 早桜
                             </h5>
             <h5 class="bprice">165元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[一不小心就和魔法師契約結婚了（1）]]></title>
-        <id>https://www.bookwalker.com.tw/product/109143</id>
-        <link href="https://www.bookwalker.com.tw/product/109143"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/109143" target="_blank" alt="一不小心就和魔法師契約結婚了（1）" title="一不小心就和魔法師契約結婚了（1）" onclick="Gtag.gtagData([{&quot;id&quot;:109143,&quot;name&quot;:&quot;\u4e00\u4e0d\u5c0f\u5fc3\u5c31\u548c\u9b54\u6cd5\u5e2b\u5951\u7d04\u7d50\u5a5a\u4e86\uff081\uff09&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u7687\u51a0&quot;,&quot;variant&quot;:29,&quot;price&quot;:182,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[史上最強大魔王轉生為村民A (4)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112426</id>
+        <link href="https://www.bookwalker.com.tw/product/112426"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112426" target="_blank" alt="史上最強大魔王轉生為村民A (4)" title="史上最強大魔王轉生為村民A (4)" onclick="Gtag.gtagData([{&quot;id&quot;:112426,&quot;name&quot;:&quot;\u53f2\u4e0a\u6700\u5f37\u5927\u9b54\u738b\u8f49\u751f\u70ba\u6751\u6c11A (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/109143/109143_4.jpg" alt="一不小心就和魔法師契約結婚了（1）" data-gtag="[{&quot;id&quot;:109143,&quot;name&quot;:&quot;\u4e00\u4e0d\u5c0f\u5fc3\u5c31\u548c\u9b54\u6cd5\u5e2b\u5951\u7d04\u7d50\u5a5a\u4e86\uff081\uff09&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u7687\u51a0&quot;,&quot;variant&quot;:29,&quot;price&quot;:182,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="一不小心就和魔法師契約結婚了（1）" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/109143/109143_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112426/112426_4.jpg" alt="史上最強大魔王轉生為村民A (4)" data-gtag="[{&quot;id&quot;:112426,&quot;name&quot;:&quot;\u53f2\u4e0a\u6700\u5f37\u5927\u9b54\u738b\u8f49\u751f\u70ba\u6751\u6c11A (4)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="史上最強大魔王轉生為村民A (4)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112426/112426_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/109143/109143_4.jpg" title="EP同步"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112426/112426_4.jpg" title="EP同步"> </div>
             
-            <h4 class="bookname">一不小心就和魔法師契約結婚了（1）</h4>
+            <h4 class="bookname">史上最強大魔王轉生為村民A (4)</h4>
             <h5 class="booknamesub">
-                                    三萩千夜 / 涂紋凰
+                                    下等 妙人 / 水野 早桜
                             </h5>
-            <h5 class="bprice">182元</h5>
+            <h5 class="bprice">150元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[熊熊勇闖異世界 (13)]]></title>
-        <id>https://www.bookwalker.com.tw/product/109497</id>
-        <link href="https://www.bookwalker.com.tw/product/109497"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/109497" target="_blank" alt="熊熊勇闖異世界 (13)" title="熊熊勇闖異世界 (13)" onclick="Gtag.gtagData([{&quot;id&quot;:109497,&quot;name&quot;:&quot;\u718a\u718a\u52c7\u95d6\u7570\u4e16\u754c (13)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:170,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[一房兩廳三人行 (1)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112425</id>
+        <link href="https://www.bookwalker.com.tw/product/112425"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112425" target="_blank" alt="一房兩廳三人行 (1)" title="一房兩廳三人行 (1)" onclick="Gtag.gtagData([{&quot;id&quot;:112425,&quot;name&quot;:&quot;\u4e00\u623f\u5169\u5ef3\u4e09\u4eba\u884c (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/109497/109497_4.jpg" alt="熊熊勇闖異世界 (13)" data-gtag="[{&quot;id&quot;:109497,&quot;name&quot;:&quot;\u718a\u718a\u52c7\u95d6\u7570\u4e16\u754c (13)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:170,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="熊熊勇闖異世界 (13)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/109497/109497_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112425/112425_4.jpg" alt="一房兩廳三人行 (1)" data-gtag="[{&quot;id&quot;:112425,&quot;name&quot;:&quot;\u4e00\u623f\u5169\u5ef3\u4e09\u4eba\u884c (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="一房兩廳三人行 (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112425/112425_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/109497/109497_4.jpg" title="特別內容"> <img src="https://image.bookwalker.com.tw/upload/product/109497/109497_4.jpg" title="EP同步"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112425/112425_4.jpg" title="EP同步"> </div>
             
-            <h4 class="bookname">熊熊勇闖異世界 (13)</h4>
+            <h4 class="bookname">一房兩廳三人行 (1)</h4>
             <h5 class="booknamesub">
-                                    くまなの / 029
+                                    福山 陽士 / シソ
+                            </h5>
+            <h5 class="bprice">150元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(12)決戰前夜的少女們]]></title>
+        <id>https://www.bookwalker.com.tw/product/112451</id>
+        <link href="https://www.bookwalker.com.tw/product/112451"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112451" target="_blank" alt="龍之界點(12)決戰前夜的少女們" title="龍之界點(12)決戰前夜的少女們" onclick="Gtag.gtagData([{&quot;id&quot;:112451,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(12)\u6c7a\u6230\u524d\u591c\u7684\u5c11\u5973\u5011&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112451/112451_4.jpg" alt="龍之界點(12)決戰前夜的少女們" data-gtag="[{&quot;id&quot;:112451,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(12)\u6c7a\u6230\u524d\u591c\u7684\u5c11\u5973\u5011&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(12)決戰前夜的少女們" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112451/112451_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(12)決戰前夜的少女們</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(11)魔法時間]]></title>
+        <id>https://www.bookwalker.com.tw/product/112450</id>
+        <link href="https://www.bookwalker.com.tw/product/112450"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112450" target="_blank" alt="龍之界點(11)魔法時間" title="龍之界點(11)魔法時間" onclick="Gtag.gtagData([{&quot;id&quot;:112450,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(11)\u9b54\u6cd5\u6642\u9593&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112450/112450_4.jpg" alt="龍之界點(11)魔法時間" data-gtag="[{&quot;id&quot;:112450,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(11)\u9b54\u6cd5\u6642\u9593&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(11)魔法時間" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112450/112450_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(11)魔法時間</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(10)女主角是誰!?]]></title>
+        <id>https://www.bookwalker.com.tw/product/112449</id>
+        <link href="https://www.bookwalker.com.tw/product/112449"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112449" target="_blank" alt="龍之界點(10)女主角是誰!?" title="龍之界點(10)女主角是誰!?" onclick="Gtag.gtagData([{&quot;id&quot;:112449,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(10)\u5973\u4e3b\u89d2\u662f\u8ab0!?&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112449/112449_4.jpg" alt="龍之界點(10)女主角是誰!?" data-gtag="[{&quot;id&quot;:112449,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(10)\u5973\u4e3b\u89d2\u662f\u8ab0!?&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(10)女主角是誰!?" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112449/112449_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(10)女主角是誰!?</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(09)突然現身的未婚妻]]></title>
+        <id>https://www.bookwalker.com.tw/product/112448</id>
+        <link href="https://www.bookwalker.com.tw/product/112448"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112448" target="_blank" alt="龍之界點(09)突然現身的未婚妻" title="龍之界點(09)突然現身的未婚妻" onclick="Gtag.gtagData([{&quot;id&quot;:112448,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(09)\u7a81\u7136\u73fe\u8eab\u7684\u672a\u5a5a\u59bb&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112448/112448_4.jpg" alt="龍之界點(09)突然現身的未婚妻" data-gtag="[{&quot;id&quot;:112448,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(09)\u7a81\u7136\u73fe\u8eab\u7684\u672a\u5a5a\u59bb&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(09)突然現身的未婚妻" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112448/112448_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(09)突然現身的未婚妻</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(08)最強成員集合]]></title>
+        <id>https://www.bookwalker.com.tw/product/112447</id>
+        <link href="https://www.bookwalker.com.tw/product/112447"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112447" target="_blank" alt="龍之界點(08)最強成員集合" title="龍之界點(08)最強成員集合" onclick="Gtag.gtagData([{&quot;id&quot;:112447,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(08)\u6700\u5f37\u6210\u54e1\u96c6\u5408&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112447/112447_4.jpg" alt="龍之界點(08)最強成員集合" data-gtag="[{&quot;id&quot;:112447,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(08)\u6700\u5f37\u6210\u54e1\u96c6\u5408&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(08)最強成員集合" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112447/112447_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(08)最強成員集合</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龍之界點(07)成人儀式]]></title>
+        <id>https://www.bookwalker.com.tw/product/112446</id>
+        <link href="https://www.bookwalker.com.tw/product/112446"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112446" target="_blank" alt="龍之界點(07)成人儀式" title="龍之界點(07)成人儀式" onclick="Gtag.gtagData([{&quot;id&quot;:112446,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(07)\u6210\u4eba\u5100\u5f0f&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112446/112446_4.jpg" alt="龍之界點(07)成人儀式" data-gtag="[{&quot;id&quot;:112446,&quot;name&quot;:&quot;\u9f8d\u4e4b\u754c\u9ede(07)\u6210\u4eba\u5100\u5f0f&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:132,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="龍之界點(07)成人儀式" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112446/112446_4.jpg">
+            </div>
+
+                            <div class="lablename">
+					
+                </div>
+            
+            <h4 class="bookname">龍之界點(07)成人儀式</h4>
+            <h5 class="booknamesub">
+                                    城崎火也 / 亞方逸樹
+                            </h5>
+            <h5 class="bprice">132元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[繼母的拖油瓶是我的前女友 (2)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112077</id>
+        <link href="https://www.bookwalker.com.tw/product/112077"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112077" target="_blank" alt="繼母的拖油瓶是我的前女友 (2)" title="繼母的拖油瓶是我的前女友 (2)" onclick="Gtag.gtagData([{&quot;id&quot;:112077,&quot;name&quot;:&quot;\u7e7c\u6bcd\u7684\u62d6\u6cb9\u74f6\u662f\u6211\u7684\u524d\u5973\u53cb (2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112077/112077_4.jpg" alt="繼母的拖油瓶是我的前女友 (2)" data-gtag="[{&quot;id&quot;:112077,&quot;name&quot;:&quot;\u7e7c\u6bcd\u7684\u62d6\u6cb9\u74f6\u662f\u6211\u7684\u524d\u5973\u53cb (2)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="繼母的拖油瓶是我的前女友 (2)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112077/112077_4.jpg">
+            </div>
+
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112077/112077_4.jpg" title="EP同步"> </div>
+            
+            <h4 class="bookname">繼母的拖油瓶是我的前女友 (2)</h4>
+            <h5 class="booknamesub">
+                                    紙城 境介 / たかやKi
+                            </h5>
+            <h5 class="bprice">150元</h5>
+        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在流星雨中逝去的妳 (5)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112073</id>
+        <link href="https://www.bookwalker.com.tw/product/112073"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112073" target="_blank" alt="在流星雨中逝去的妳 (5)" title="在流星雨中逝去的妳 (5)" onclick="Gtag.gtagData([{&quot;id&quot;:112073,&quot;name&quot;:&quot;\u5728\u6d41\u661f\u96e8\u4e2d\u901d\u53bb\u7684\u59b3 (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:170,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+            <div class="bwbookcover">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112073/112073_4.jpg" alt="在流星雨中逝去的妳 (5)" data-gtag="[{&quot;id&quot;:112073,&quot;name&quot;:&quot;\u5728\u6d41\u661f\u96e8\u4e2d\u901d\u53bb\u7684\u59b3 (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:170,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="在流星雨中逝去的妳 (5)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112073/112073_4.jpg">
+            </div>
+
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112073/112073_4.jpg" title="EP同步"> </div>
+            
+            <h4 class="bookname">在流星雨中逝去的妳 (5)</h4>
+            <h5 class="booknamesub">
+                                    松山 剛 / 珈琲貴族
                             </h5>
             <h5 class="bprice">170元</h5>
         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sword Art Online 刀劍神域 (23)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107073</id>
-        <link href="https://www.bookwalker.com.tw/product/107073"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107073" target="_blank" alt="Sword Art Online 刀劍神域 (23)" title="Sword Art Online 刀劍神域 (23)" onclick="Gtag.gtagData([{&quot;id&quot;:107073,&quot;name&quot;:&quot;Sword Art Online \u5200\u528d\u795e\u57df (23)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
+        <title type="html"><![CDATA[異世界拷問姬 (6)]]></title>
+        <id>https://www.bookwalker.com.tw/product/112072</id>
+        <link href="https://www.bookwalker.com.tw/product/112072"/>
+        <updated>2021-05-06T03:44:55.599Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/112072" target="_blank" alt="異世界拷問姬 (6)" title="異世界拷問姬 (6)" onclick="Gtag.gtagData([{&quot;id&quot;:112072,&quot;name&quot;:&quot;\u7570\u4e16\u754c\u62f7\u554f\u59ec (6)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
             <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107073/107073_4.jpg" alt="Sword Art Online 刀劍神域 (23)" data-gtag="[{&quot;id&quot;:107073,&quot;name&quot;:&quot;Sword Art Online \u5200\u528d\u795e\u57df (23)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="Sword Art Online 刀劍神域 (23)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107073/107073_4.jpg">
+                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/112072/112072_4.jpg" alt="異世界拷問姬 (6)" data-gtag="[{&quot;id&quot;:112072,&quot;name&quot;:&quot;\u7570\u4e16\u754c\u62f7\u554f\u59ec (6)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="異世界拷問姬 (6)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/112072/112072_4.jpg">
             </div>
 
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107073/107073_4.jpg" title="贈品"> <img src="https://image.bookwalker.com.tw/upload/product/107073/107073_4.jpg" title="EP同步"> </div>
+                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/112072/112072_4.jpg" title="先行發售"> </div>
             
-            <h4 class="bookname">Sword Art Online 刀劍神域 (23)</h4>
+            <h4 class="bookname">異世界拷問姬 (6)</h4>
             <h5 class="booknamesub">
-                                    川原 礫 / abec
-                            </h5>
-            <h5 class="bprice">150元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你喜歡的不是女兒而是我!? (1)]]></title>
-        <id>https://www.bookwalker.com.tw/product/111432</id>
-        <link href="https://www.bookwalker.com.tw/product/111432"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/111432" target="_blank" alt="你喜歡的不是女兒而是我!? (1)" title="你喜歡的不是女兒而是我!? (1)" onclick="Gtag.gtagData([{&quot;id&quot;:111432,&quot;name&quot;:&quot;\u4f60\u559c\u6b61\u7684\u4e0d\u662f\u5973\u5152\u800c\u662f\u6211!? (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/111432/111432_4.jpg" alt="你喜歡的不是女兒而是我!? (1)" data-gtag="[{&quot;id&quot;:111432,&quot;name&quot;:&quot;\u4f60\u559c\u6b61\u7684\u4e0d\u662f\u5973\u5152\u800c\u662f\u6211!? (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="你喜歡的不是女兒而是我!? (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/111432/111432_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/111432/111432_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">你喜歡的不是女兒而是我!? (1)</h4>
-            <h5 class="booknamesub">
-                                    望 公太 / ぎうにう
-                            </h5>
-            <h5 class="bprice">150元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[堤亞穆帝國物語(02)]]></title>
-        <id>https://www.bookwalker.com.tw/product/109225</id>
-        <link href="https://www.bookwalker.com.tw/product/109225"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/109225" target="_blank" alt="堤亞穆帝國物語(02)" title="堤亞穆帝國物語(02)" onclick="Gtag.gtagData([{&quot;id&quot;:109225,&quot;name&quot;:&quot;\u5824\u4e9e\u7a46\u5e1d\u570b\u7269\u8a9e(02)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:169,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/109225/109225_4.jpg" alt="堤亞穆帝國物語(02)" data-gtag="[{&quot;id&quot;:109225,&quot;name&quot;:&quot;\u5824\u4e9e\u7a46\u5e1d\u570b\u7269\u8a9e(02)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u9752\u6587\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:169,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="堤亞穆帝國物語(02)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/109225/109225_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/109225/109225_4.jpg" title="先行發售"> </div>
-            
-            <h4 class="bookname">堤亞穆帝國物語(02)</h4>
-            <h5 class="booknamesub">
-                                    餅月望 / Gilse
-                            </h5>
-            <h5 class="bprice">169元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[魔法科高中的劣等生 (30)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107075</id>
-        <link href="https://www.bookwalker.com.tw/product/107075"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107075" target="_blank" alt="魔法科高中的劣等生 (30)" title="魔法科高中的劣等生 (30)" onclick="Gtag.gtagData([{&quot;id&quot;:107075,&quot;name&quot;:&quot;\u9b54\u6cd5\u79d1\u9ad8\u4e2d\u7684\u52a3\u7b49\u751f (30)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107075/107075_4.jpg" alt="魔法科高中的劣等生 (30)" data-gtag="[{&quot;id&quot;:107075,&quot;name&quot;:&quot;\u9b54\u6cd5\u79d1\u9ad8\u4e2d\u7684\u52a3\u7b49\u751f (30)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="魔法科高中的劣等生 (30)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107075/107075_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107075/107075_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">魔法科高中的劣等生 (30)</h4>
-            <h5 class="booknamesub">
-                                    佐島 勤 / 石田 可奈
-                            </h5>
-            <h5 class="bprice">165元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[異世界悠閒農家 (6)]]></title>
-        <id>https://www.bookwalker.com.tw/product/110034</id>
-        <link href="https://www.bookwalker.com.tw/product/110034"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110034" target="_blank" alt="異世界悠閒農家 (6)" title="異世界悠閒農家 (6)" onclick="Gtag.gtagData([{&quot;id&quot;:110034,&quot;name&quot;:&quot;\u7570\u4e16\u754c\u60a0\u9592\u8fb2\u5bb6 (6)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:225,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110034/110034_4.jpg" alt="異世界悠閒農家 (6)" data-gtag="[{&quot;id&quot;:110034,&quot;name&quot;:&quot;\u7570\u4e16\u754c\u60a0\u9592\u8fb2\u5bb6 (6)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:225,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="異世界悠閒農家 (6)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110034/110034_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110034/110034_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">異世界悠閒農家 (6)</h4>
-            <h5 class="booknamesub">
-                                    內藤騎之介 / やすも
-                            </h5>
-            <h5 class="bprice">225元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[這個勇者明明超TUEEE卻過度謹慎 (7)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107077</id>
-        <link href="https://www.bookwalker.com.tw/product/107077"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107077" target="_blank" alt="這個勇者明明超TUEEE卻過度謹慎 (7)" title="這個勇者明明超TUEEE卻過度謹慎 (7)" onclick="Gtag.gtagData([{&quot;id&quot;:107077,&quot;name&quot;:&quot;\u9019\u500b\u52c7\u8005\u660e\u660e\u8d85TUEEE\u537b\u904e\u5ea6\u8b39\u614e (7)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107077/107077_4.jpg" alt="這個勇者明明超TUEEE卻過度謹慎 (7)" data-gtag="[{&quot;id&quot;:107077,&quot;name&quot;:&quot;\u9019\u500b\u52c7\u8005\u660e\u660e\u8d85TUEEE\u537b\u904e\u5ea6\u8b39\u614e (7)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="這個勇者明明超TUEEE卻過度謹慎 (7)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107077/107077_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107077/107077_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">這個勇者明明超TUEEE卻過度謹慎 (7)</h4>
-            <h5 class="booknamesub">
-                                    土日月 / とよた瑣織
+                                    綾里惠史 / 鵜飼沙樹
                             </h5>
             <h5 class="bprice">140元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[86-不存在的戰區- (8)]]></title>
-        <id>https://www.bookwalker.com.tw/product/107070</id>
-        <link href="https://www.bookwalker.com.tw/product/107070"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/107070" target="_blank" alt="86-不存在的戰區- (8)" title="86-不存在的戰區- (8)" onclick="Gtag.gtagData([{&quot;id&quot;:107070,&quot;name&quot;:&quot;86-\u4e0d\u5b58\u5728\u7684\u6230\u5340- (8)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:134,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/107070/107070_4.jpg" alt="86-不存在的戰區- (8)" data-gtag="[{&quot;id&quot;:107070,&quot;name&quot;:&quot;86-\u4e0d\u5b58\u5728\u7684\u6230\u5340- (8)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:134,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="86-不存在的戰區- (8)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/107070/107070_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/107070/107070_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">86-不存在的戰區- (8)</h4>
-            <h5 class="booknamesub">
-                                    安里 アサト / しらび / I-IV
-                            </h5>
-            <h5 class="bprice">134元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怕痛的我，把防禦力點滿就對了 (9)]]></title>
-        <id>https://www.bookwalker.com.tw/product/110046</id>
-        <link href="https://www.bookwalker.com.tw/product/110046"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110046" target="_blank" alt="怕痛的我，把防禦力點滿就對了 (9)" title="怕痛的我，把防禦力點滿就對了 (9)" onclick="Gtag.gtagData([{&quot;id&quot;:110046,&quot;name&quot;:&quot;\u6015\u75db\u7684\u6211\uff0c\u628a\u9632\u79a6\u529b\u9ede\u6eff\u5c31\u5c0d\u4e86 (9)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110046/110046_4.jpg" alt="怕痛的我，把防禦力點滿就對了 (9)" data-gtag="[{&quot;id&quot;:110046,&quot;name&quot;:&quot;\u6015\u75db\u7684\u6211\uff0c\u628a\u9632\u79a6\u529b\u9ede\u6eff\u5c31\u5c0d\u4e86 (9)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="怕痛的我，把防禦力點滿就對了 (9)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110046/110046_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110046/110046_4.jpg" title="先行發售"> </div>
-            
-            <h4 class="bookname">怕痛的我，把防禦力點滿就對了 (9)</h4>
-            <h5 class="booknamesub">
-                                    夕蜜柑 / 狐印
-                            </h5>
-            <h5 class="bprice">150元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聖女魔力無所不能 (5)]]></title>
-        <id>https://www.bookwalker.com.tw/product/109244</id>
-        <link href="https://www.bookwalker.com.tw/product/109244"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/109244" target="_blank" alt="聖女魔力無所不能 (5)" title="聖女魔力無所不能 (5)" onclick="Gtag.gtagData([{&quot;id&quot;:109244,&quot;name&quot;:&quot;\u8056\u5973\u9b54\u529b\u7121\u6240\u4e0d\u80fd (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:29,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/109244/109244_4.jpg" alt="聖女魔力無所不能 (5)" data-gtag="[{&quot;id&quot;:109244,&quot;name&quot;:&quot;\u8056\u5973\u9b54\u529b\u7121\u6240\u4e0d\u80fd (5)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:29,&quot;price&quot;:140,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="聖女魔力無所不能 (5)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/109244/109244_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/109244/109244_4.jpg" title="先行發售"> </div>
-            
-            <h4 class="bookname">聖女魔力無所不能 (5)</h4>
-            <h5 class="booknamesub">
-                                    橘 由華 / 珠梨 やすゆき
-                            </h5>
-            <h5 class="bprice">140元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1]]></title>
-        <id>https://www.bookwalker.com.tw/product/110072</id>
-        <link href="https://www.bookwalker.com.tw/product/110072"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110072" target="_blank" alt="救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1" title="救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1" onclick="Gtag.gtagData([{&quot;id&quot;:110072,&quot;name&quot;:&quot;\u6551\u4e86\u9047\u5230\u75f4\u6f22\u7684S\u7d1a\u7f8e\u5c11\u5973\u624d\u767c\u73fe\u662f\u9130\u5ea7\u7684\u9752\u6885\u7af9\u99ac1&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u5c16\u7aef\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110072/110072_4.jpg" alt="救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1" data-gtag="[{&quot;id&quot;:110072,&quot;name&quot;:&quot;\u6551\u4e86\u9047\u5230\u75f4\u6f22\u7684S\u7d1a\u7f8e\u5c11\u5973\u624d\u767c\u73fe\u662f\u9130\u5ea7\u7684\u9752\u6885\u7af9\u99ac1&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u5c16\u7aef\u51fa\u7248&quot;,&quot;variant&quot;:28,&quot;price&quot;:150,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110072/110072_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110072/110072_4.jpg" title="贈品"> <img src="https://image.bookwalker.com.tw/upload/product/110072/110072_4.jpg" title="EP同步"> </div>
-            
-            <h4 class="bookname">救了遇到痴漢的S級美少女才發現是鄰座的青梅竹馬1</h4>
-            <h5 class="booknamesub">
-                                    謙之字 / Fly
-                            </h5>
-            <h5 class="bprice">150元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[間諜教室 (1)]]></title>
-        <id>https://www.bookwalker.com.tw/product/110563</id>
-        <link href="https://www.bookwalker.com.tw/product/110563"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110563" target="_blank" alt="間諜教室 (1)" title="間諜教室 (1)" onclick="Gtag.gtagData([{&quot;id&quot;:110563,&quot;name&quot;:&quot;\u9593\u8adc\u6559\u5ba4 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110563/110563_4.jpg" alt="間諜教室 (1)" data-gtag="[{&quot;id&quot;:110563,&quot;name&quot;:&quot;\u9593\u8adc\u6559\u5ba4 (1)&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="間諜教室 (1)" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110563/110563_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110563/110563_4.jpg" title="先行發售"> </div>
-            
-            <h4 class="bookname">間諜教室 (1)</h4>
-            <h5 class="booknamesub">
-                                    竹町 / トマリ
-                            </h5>
-            <h5 class="bprice">165元</h5>
-        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～]]></title>
-        <id>https://www.bookwalker.com.tw/product/110042</id>
-        <link href="https://www.bookwalker.com.tw/product/110042"/>
-        <updated>2021-05-04T10:58:57.657Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.bookwalker.com.tw/product/110042" target="_blank" alt="賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～" title="賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～" onclick="Gtag.gtagData([{&quot;id&quot;:110042,&quot;name&quot;:&quot;\u8ce2\u52c7\u8005\u827e\u9054\u98db\u57fa\uff0e\u9f4a\u840a\u592b\u7684\u555f\u535a\u6559\u89bd (1) \uff5e\u611b\u5f92\u6c99\u512a\u5a1c\u7684\u5fc3\u7662\u7662\u5192\u96aa\u6a02\u5712\uff5e&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}],&quot;select_content&quot;,&quot;相關推薦書刊&quot;);">
-            <div class="bwbookcover">
-                <img restricted_status="2" data-src="https://image.bookwalker.com.tw/upload/product/110042/110042_4.jpg" alt="賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～" data-gtag="[{&quot;id&quot;:110042,&quot;name&quot;:&quot;\u8ce2\u52c7\u8005\u827e\u9054\u98db\u57fa\uff0e\u9f4a\u840a\u592b\u7684\u555f\u535a\u6559\u89bd (1) \uff5e\u611b\u5f92\u6c99\u512a\u5a1c\u7684\u5fc3\u7662\u7662\u5192\u96aa\u6a02\u5712\uff5e&quot;,&quot;category&quot;:&quot;\u8f15\u5c0f\u8aaa&quot;,&quot;brand&quot;:&quot;\u53f0\u7063\u89d2\u5ddd&quot;,&quot;variant&quot;:28,&quot;price&quot;:165,&quot;quantity&quot;:1,&quot;list_name&quot;:&quot;\u76f8\u95dc\u63a8\u85a6\u66f8\u520a&quot;}]" data-gtag-block="相關推薦書刊" title="賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～" class="bookbor lazyload" width="106" height="149" src="https://image.bookwalker.com.tw/upload/product/110042/110042_4.jpg">
-            </div>
-
-                        	<div class="lablename"><img src="https://image.bookwalker.com.tw/upload/product/110042/110042_4.jpg" title="先行發售"> </div>
-            
-            <h4 class="bookname">賢勇者艾達飛基．齊萊夫的啟博教覽 (1) ～愛徒沙優娜的心癢癢冒險樂園～</h4>
-            <h5 class="booknamesub">
-                                    有象利路 / かれい
-                            </h5>
-            <h5 class="bprice">165元</h5>
         </a>]]></content>
     </entry>
 </feed>
