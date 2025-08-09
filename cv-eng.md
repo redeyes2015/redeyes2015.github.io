@@ -18,6 +18,9 @@ Sep 2022 - Present (3 years)
     * Release search-by-image (OCR) in 2023, search-by-voice (STT) in 2024
 
 2. Maintain various services and campaign events for TW Sticker OA
+    * Create services in Go to recommend sticker and theme products to users
+    * Design the architecture and coordinate the integration project with CHT,
+      which allows users to subscribe LINE sticker premium plan from CHT
     * Design the architecture and coordinate the "Sticker Review" events every
       year since 2022
         * Backend: Go, Kotlin with Spring Boot; Front-end: Next.js
