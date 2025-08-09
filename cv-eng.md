@@ -8,9 +8,25 @@ Mail: redeyes2015@gmail.com
 Experience
 ==========
 
-Supervisor
+LINE Taiwan - Technical Project Manager
 ----------
-Jan 2017 - Present (1 year)
+Sep 2022 - Present (3 years)
+1. Maintain LINE Fact Checker service, which allow the user to search related rumor articles and see verified results from our partner.
+    ** Release search-by-image (OCR) in 2023
+2. Cooperate with other developers to host "Sticker Review" event in 2022 and 2023, which allowed users to check their most-sent stickers in the past year.
+3. Cooperate with other developers to host "Chinese New Year" event in 2023, which rewarded users sending stickers from a specific list to his/her friends.
+
+
+LINE Taiwan - UIT Engineer
+----------
+Aug 2020 - Aug 2022 (2 years 1 month)
+
+Mostly working on LINE SPOT project, where users can find and comment on POIs.
+Was the main maintainer for the Next.js front-end for the main user website with a self-hosted SSR server, communicating with back-end using GraphQL and front-end of other related services.
+
+Vivotek - Supervisor
+----------
+Jan 2017 - Jul 2020 (3 years 6 months)
 
 - Guide a team of 4 front-end engineers
 - Organize biannual in-company conferences to stimulate knowledge
@@ -25,7 +41,7 @@ Jan 2017 - Present (1 year)
       code architecture and developing environment of modern ECMAScript
 
 
-Sr. Software Engineer
+Vivotek - Sr. Software Engineer
 ---------------------
 Apr 2014 - Dec 2016 (2 years 9 months)
 
@@ -37,7 +53,7 @@ Apr 2014 - Dec 2016 (2 years 9 months)
   * Jenkins CI with multiple slaves
   * Gitlab (using docker)
 
-Software Engineer
+Vivotek - Software Engineer
 -----------------
 Sep 2011 - Mar 2014 (2 years 7 months)
 
