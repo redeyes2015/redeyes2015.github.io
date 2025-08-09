@@ -35,7 +35,7 @@ Sep 2022 - Present (3 years)
     * Led the "Chinese New Year" event, rewarding users for sending stickers.
         * In 2023, the event achieved 3.3M UU and 18M PV, after migrating the
           existing codebase to Kubernetes.
-        * In 2024, we extract the core parts and integrate with another
+        * In 2024, we extracted the core parts and integrated with another
           internal service, empowering the Business team to independently
           create similar campaigns.
 
