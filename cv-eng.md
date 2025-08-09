@@ -5,6 +5,13 @@ I am Yu-Jen Chang, or you can just call me Ryan.
 
 Mail: redeyes2015@gmail.com
 
+Technical Skills
+--------
+
+* JavaScript, Typescript, Next.js, React (decent)
+* Java, Spring Boot, Go (familiar)
+* Python (slightly touched)
+
 Experience
 ==========
 
@@ -15,7 +22,8 @@ Sep 2022 - Present (3 years)
 1. Maintain various services and campaign events for TW Sticker OA
     * Coordinate between different groups to realize each service, including
         teams in KR and JP
-    * Create services in Go to recommend sticker and theme products to users
+    * For each service, give man-month estimation, schedule plan, test plan,
+      and loading test plan if neccessary
     * Design the architecture and coordinate the integration project with CHT,
       which allows users to subscribe LINE sticker premium plan from CHT
     * Design the architecture and coordinate the "Sticker Review" events every
@@ -57,9 +65,10 @@ Aug 2020 - Aug 2022 (2 years 1 month)
 * The team worked in a Scrum manner
 
 
-Vivotek - Supervisor
+Vivotek
 ----------
-Jan 2017 - Jul 2020 (3 years 6 months)
+
+Software Engineer (2011-2016) / Supervisor (2017-2020) (~9years)
 
 - Guide a team of 4 front-end engineers
 - Organize biannual in-company conferences to stimulate knowledge
@@ -70,20 +79,11 @@ Jan 2017 - Jul 2020 (3 years 6 months)
   * Migrate the building process to use Webpack and reduce the building time for 40%
   * Guide the team to migrate to VueJS gradually in order to bring in cleaner
       code architecture and developing environment of modern ECMAScript
-
-
-Vivotek - Software Engineer
----------------------
-Sep 2011 - Dec 2016 (5 years 4 months)
-
-- Maintain some daemons on embedded system
 - Maintain single-page-application style web interface of NVR
 - Mentor other engineers to join in web development
-- Reduced the firmware building time 30% by revising Makefiles
+- Reduced 30% of the firmware building time by revising Makefiles
     and raising the level of concurrency
-- Help the team to migrate from Subversion to Git
 - Help hosting several services for the team, such as Jenkins CI and Gitlab
-
 
 Education
 =========
@@ -92,13 +92,9 @@ Education
 - Bachelor degree from Computer Science and Information Engineering of National
     Taiwan University (2003 ~ 2007)
 
-Skill
-=====
+Additional Note
+===============
 
-- Programming language:
-  * JavaScript on Web and NodeJS (decent)
-  * Java, Go (familiar)
-  * Python (slightly touched)
 - Decent English reading ability
   * TOEIC score: 950 (2013)
   * GEPT High-Intermediate Level Certificated (2017)
