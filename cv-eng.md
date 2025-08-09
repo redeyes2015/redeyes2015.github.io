@@ -8,9 +8,9 @@ Mail: redeyes2015@gmail.com
 Technical Skills
 --------
 
-* JavaScript, Typescript, Next.js, React (decent)
-* Java, Spring Boot, Go (familiar)
-* Python (slightly touched)
+* Proficient: JavaScript, TypeScript, Next.js, React
+* Familiar: Java, Spring Boot, Go
+* Exposure: Python
 
 Experience
 ==========
@@ -19,89 +19,80 @@ LINE Taiwan - Technical Project Manager
 ----------
 Sep 2022 - Present (3 years)
 
-1. Maintain various services and campaign events for TW Sticker OA
-    * Coordinate between different groups to realize each service, including
-        teams in KR and JP
-    * For each service, give man-month estimation, schedule plan, test plan,
-      and loading test plan if neccessary
-    * Design the architecture and coordinate the integration project with CHT,
-      which allows users to subscribe LINE sticker premium plan from CHT
-    * Design the architecture and coordinate the "Sticker Review" events every
-      year since 2022
-        * Backend: Go, Kotlin with Spring Boot; Front-end: Next.js
-        * In 2023, gained 2M UU, 7.2M PV
+1. Managed and coordinated various services and campaign events for the TW
+   Sticker Official Account by collaborating with cross-functional teams in
+   Korea and Japan.
+    * Oversaw project lifecycle, including man-month estimation, scheduling,
+      test planning, and loading tests as needed.
+    * Architected and coordinated an integration project with CHT, enabling
+      users to subscribe to the LINE sticker premium plan as CHT monthly
+      add-on.
+    * Designed and coordinated annual "Sticker Review" events since 2022,
+      leveraging Go, Kotlin (Spring Boot), and Next.js.
+        * The 2023 event achieved 2M UU and 7.2M PV.
         * In 2024, using Kafka and Playwright to generate snapshots for each
           user, without blocking the web service
-    * Coordinate "Chinese New Year" event in 2023, which rewarded users for
-      sending stickers from a specific list to his/her friends.
-        * Reusing existing code base, and migrate from legacy deploy pipeline
-          to Kubernetes
-        * Test for heavy traffic (at max: ~1M messages / second)
-        * In 2023, gained 3.3M UU, 18M PV
+    * Led the "Chinese New Year" event, rewarding users for sending stickers.
+        * In 2023, the event achieved 3.3M UU and 18M PV, after migrating the
+          existing codebase to Kubernetes.
         * In 2024, we extract the core parts and integrate with another
-          internal service, so that Biz side could create similar event easily
+          internal service, empowering the Business team to independently
+          create similar campaigns.
 
-2. Maintain LINE Fact Checker service, which allow the user to search related
-   rumor articles and see verified results from our partners.
-    * Backend: Java with Spring Boot; Front-end: Vue 2
-    * The web has ~1K Daily PV, ~13K MAU
-    * Release search-by-image (OCR) in 2023, search-by-voice (STT) in 2024
+2. Maintained the LINE Fact Checker service, which enables users to search for
+   rumor articles and view verified results. The service averages ~1K daily PV
+   and ~13K MAU, with new features including search-by-image (OCR) in 2023 and
+   search-by-voice (STT) in 2024.
 
-
-3. Making campaign events for TW VOOM since 2023
-    * Use code base and infra taken over from the other team, do migration
-      due to internal service updates, and update for spec change
-    * Backend: Java with Spring Boot; Front-end: Next.js, Nuxt, Gatsby
-    * For 2025 CPBL all-start voting event, gained 540K UU, ~4.3M PV
+3. Executed campaign events for TW VOOM since 2023. Managed the migration of an
+   inherited codebase and infrastructure, and updated services based on
+   internal specification changes. The 2025 CPBL all-star voting event received
+   540K UU and ~4.3M PV.
 
 LINE Taiwan - UIT Engineer
 ----------
 Aug 2020 - Aug 2022 (2 years 1 month)
 
-* Be the main front-end maintainer of LINE SPOT where users can find and
-  comment on POIs
-    * Use Next.js and a self-hosted SSR server
-    * Communicate with backend using GraphQL
-* The team worked in a Scrum manner
+* Served as the primary front-end maintainer for LINE SPOT, a service where
+  users find and comment on POIs.
+    * Utilized Next.js with a self-hosted SSR server and GraphQL for backend
+      communication.
+* Contributed to a team that operated in a Scrum methodology.
 
 
 Vivotek
 ----------
 
-Software Engineer (2011-2016) / Supervisor (2017-2020) (~9years)
+Software Engineer (Sep 2011 - Dec 2016) / Supervisor (Jan 2017 - Jul 2020) (~9years)
 
-- Guide a team of 4 front-end engineers
-- Organize biannual in-company conferences to stimulate knowledge
-    sharing among web developing colleague company-wide
-- Maintain the web portal of VIVOCloud, which lets users access
-    network video recorder (NVR) directly from the browser using WebRTC
-  * Setup CI infrastructure
-  * Migrate the building process to use Webpack and reduce the building time for 40%
-  * Guide the team to migrate to VueJS gradually in order to bring in cleaner
-      code architecture and developing environment of modern ECMAScript
-- Maintain single-page-application style web interface of NVR
-- Mentor other engineers to join in web development
-- Reduced 30% of the firmware building time by revising Makefiles
-    and raising the level of concurrency
-- Help hosting several services for the team, such as Jenkins CI and Gitlab
+- Supervised a team of 4 front-end engineers and organize biannual company
+  conferences to facilitate knowledge sharing.
+- Manage the VIVOCloud web portal, providing users with direct browser access
+  to NVRs via WebRTC.
+  * Established CI infrastructure and migrated the build process to Webpack,
+    reducing build time by 40%.
+  * Guided the team to gradually migrate to Vue.js, improving code architecture
+    and adopting modern ECMAScript standards.
+- Maintained daemons on embedded systems and the NVR's single-page-application
+  style web interface.
+- Mentored other engineers in web development
+- Reduced firmware build time by 30% by revising Makefiles and increasing concurrency.
+- Migrated the team from Subversion to Git and hosted essential services like Jenkins CI and GitLab.
 
 Education
 =========
 
-- Master degree from Network Engineering of National Chiao Tung University (2007 ~ 2011)
-- Bachelor degree from Computer Science and Information Engineering of National
-    Taiwan University (2003 ~ 2007)
+- Master of Network Engineering, National Chiao Tung University (2007 ~ 2011)
+- Bachelor of Computer Science and Information Engineering, National Taiwan
+  University (2003 ~ 2007)
 
-Additional Note
+Additional Information
 ===============
 
-- Decent English reading ability
-  * TOEIC score: 950 (2013)
-  * GEPT High-Intermediate Level Certificated (2017)
+* English Proficiency: TOEIC 950 (2013), GEPT High-Intermediate (2017)
 
 Reference
 =========
 
 - VIVOCloud: https://www.vivotek.com/zh-TW/products/cloud_service/vivocloud
 - LINE Fact Checker: https://fact-checker.line.me/
-
