@@ -12,32 +12,39 @@ LINE Taiwan - Technical Project Manager
 ----------
 Sep 2022 - Present (3 years)
 
-1. Maintain LINE Fact Checker service, which allow the user to search related
-   rumor articles and see verified results from our partners.
-    * Backend: Java with Spring Boot; Front-end: Vue 2
-    * Release search-by-image (OCR) in 2023, search-by-voice (STT) in 2024
-
-2. Maintain various services and campaign events for TW Sticker OA
+1. Maintain various services and campaign events for TW Sticker OA
+    * Coordinate between different groups to realize each service, including
+        teams in KR and JP
     * Create services in Go to recommend sticker and theme products to users
     * Design the architecture and coordinate the integration project with CHT,
       which allows users to subscribe LINE sticker premium plan from CHT
     * Design the architecture and coordinate the "Sticker Review" events every
       year since 2022
         * Backend: Go, Kotlin with Spring Boot; Front-end: Next.js
+        * In 2023, gained 2M UU, 7.2M PV
         * In 2024, using Kafka and Playwright to generate snapshots for each
-          user
-    * Cooridnate "Chinese New Year" event in 2023, which rewarded users for
+          user, without blocking the web service
+    * Coordinate "Chinese New Year" event in 2023, which rewarded users for
       sending stickers from a specific list to his/her friends.
         * Reusing existing code base, and migrate from legacy deploy pipeline
           to Kubernetes
         * Test for heavy traffic (at max: ~1M messages / second)
+        * In 2023, gained 3.3M UU, 18M PV
         * In 2024, we extract the core parts and integrate with another
           internal service, so that Biz side could create similar event easily
+
+2. Maintain LINE Fact Checker service, which allow the user to search related
+   rumor articles and see verified results from our partners.
+    * Backend: Java with Spring Boot; Front-end: Vue 2
+    * The web has ~1K Daily PV, ~13K MAU
+    * Release search-by-image (OCR) in 2023, search-by-voice (STT) in 2024
+
 
 3. Making campaign events for TW VOOM since 2023
     * Use code base and infra taken over from the other team, do migration
       due to internal service updates, and update for spec change
     * Backend: Java with Spring Boot; Front-end: Next.js, Nuxt, Gatsby
+    * For 2025 CPBL all-start voting event, gained 540K UU, ~4.3M PV
 
 LINE Taiwan - UIT Engineer
 ----------
@@ -74,10 +81,8 @@ Sep 2011 - Dec 2016 (5 years 4 months)
 - Mentor other engineers to join in web development
 - Reduced the firmware building time 30% by revising Makefiles
     and raising the level of concurrency
-- Make a prototype of testing tools with Selenium
 - Help the team to migrate from Subversion to Git
-- Help hosting several services for the team
-  * Gerrit, Jenkins CI, and Gitlab
+- Help hosting several services for the team, such as Jenkins CI and Gitlab
 
 
 Education
@@ -91,15 +96,16 @@ Skill
 =====
 
 - Programming language:
-  * JavaScript on Web and NodeJS (Decent)
-  * Python, Go (slightly touched)
-- POSIX environment and Linux server management
+  * JavaScript on Web and NodeJS (decent)
+  * Java, Go (familiar)
+  * Python (slightly touched)
 - Decent English reading ability
-  * TOEIC score: 950
-  * GEPT High-Intermediate Level Certificated
+  * TOEIC score: 950 (2013)
+  * GEPT High-Intermediate Level Certificated (2017)
 
 Reference
 =========
 
-- VIVOCloud: https://www.vivotek.com/vivocloud/#portal
+- VIVOCloud: https://www.vivotek.com/zh-TW/products/cloud_service/vivocloud
+- LINE Fact Checker: https://fact-checker.line.me/
 
