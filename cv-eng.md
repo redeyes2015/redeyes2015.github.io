@@ -57,39 +57,28 @@ Jan 2017 - Jul 2020 (3 years 6 months)
 - Guide a team of 4 front-end engineers
 - Organize biannual in-company conferences to stimulate knowledge
     sharing among web developing colleague company-wide
-- Refurbish a legacy lambda function (written in JavaScript) to
-    introduce modern tool sets and unit tests
 - Maintain the web portal of VIVOCloud, which lets users access
-    network video recorder (NVR) directly from the browser
+    network video recorder (NVR) directly from the browser using WebRTC
   * Setup CI infrastructure
   * Migrate the building process to use Webpack and reduce the building time for 40%
-  * Guide the team to migrating to VueJS gradually in order to bring in cleaner
+  * Guide the team to migrate to VueJS gradually in order to bring in cleaner
       code architecture and developing environment of modern ECMAScript
 
 
-Vivotek - Sr. Software Engineer
----------------------
-Apr 2014 - Dec 2016 (2 years 9 months)
-
-- Mentor another engineer to join in web development
-- Make a prototype of testing tools with Selenium
-- Help the team to migrate from Subversion to Git
-- Help setup several services for the team
-  * Gerrit for code review
-  * Jenkins CI with multiple slaves
-  * Gitlab (using docker)
-
 Vivotek - Software Engineer
------------------
-Sep 2011 - Mar 2014 (2 years 7 months)
+---------------------
+Sep 2011 - Dec 2016 (5 years 4 months)
 
-- Join the team to develop the first developed-in-house network video recorder
-    (NVR) of VIVOTEK
 - Maintain some daemons on embedded system
+- Maintain single-page-application style web interface of NVR
+- Mentor other engineers to join in web development
 - Reduced the firmware building time 30% by revising Makefiles
     and raising the level of concurrency
-- Maintain single-page-application style web interface of NVR
-  *  Mentor one engineer to join in web development
+- Make a prototype of testing tools with Selenium
+- Help the team to migrate from Subversion to Git
+- Help hosting several services for the team
+  * Gerrit, Jenkins CI, and Gitlab
+
 
 Education
 =========
