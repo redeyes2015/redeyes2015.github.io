@@ -11,18 +11,41 @@ Experience
 LINE Taiwan - Technical Project Manager
 ----------
 Sep 2022 - Present (3 years)
-1. Maintain LINE Fact Checker service, which allow the user to search related rumor articles and see verified results from our partner.
-    ** Release search-by-image (OCR) in 2023
-2. Cooperate with other developers to host "Sticker Review" event in 2022 and 2023, which allowed users to check their most-sent stickers in the past year.
-3. Cooperate with other developers to host "Chinese New Year" event in 2023, which rewarded users sending stickers from a specific list to his/her friends.
 
+1. Maintain LINE Fact Checker service, which allow the user to search related
+   rumor articles and see verified results from our partners.
+    * Backend: Java with Spring Boot; Front-end: Vue 2
+    * Release search-by-image (OCR) in 2023, search-by-voice (STT) in 2024
+
+2. Maintain various services and campaign events for TW Sticker OA
+    * Design the architecture and coordinate the "Sticker Review" events every
+      year since 2022
+        * Backend: Go, Kotlin with Spring Boot; Front-end: Next.js
+        * In 2024, using Kafka and Playwright to generate snapshots for each
+          user
+    * Cooridnate "Chinese New Year" event in 2023, which rewarded users for
+      sending stickers from a specific list to his/her friends.
+        * Reusing existing code base, and migrate from legacy deploy pipeline
+          to Kubernetes
+        * Test for heavy traffic (at max: ~1M messages / second)
+        * In 2024, we extract the core parts and integrate with another
+          internal service, so that Biz side could create similar event easily
+
+3. Making campaign events for TW VOOM since 2023
+    * Use code base and infra taken over from the other team, do migration
+      due to internal service updates, and update for spec change
+    * Backend: Java with Spring Boot; Front-end: Next.js, Nuxt, Gatsby
 
 LINE Taiwan - UIT Engineer
 ----------
 Aug 2020 - Aug 2022 (2 years 1 month)
 
-Mostly working on LINE SPOT project, where users can find and comment on POIs.
-Was the main maintainer for the Next.js front-end for the main user website with a self-hosted SSR server, communicating with back-end using GraphQL and front-end of other related services.
+* Be the main front-end maintainer of LINE SPOT where users can find and
+  comment on POIs
+    * Use Next.js and a self-hosted SSR server
+    * Communicate with backend using GraphQL
+* The team worked in a Scrum manner
+
 
 Vivotek - Supervisor
 ----------
